@@ -1,0 +1,11 @@
+[{
+  "id":1,
+  "text":"操作",
+  "children":[{
+    "id":13,
+    "text":"业主列表",
+    "attributes":{
+      "url":"Admin_Owner/ownerView"
+    }
+  }]
+}]
